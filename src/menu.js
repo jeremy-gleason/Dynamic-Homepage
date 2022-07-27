@@ -15,4 +15,8 @@ export default function() {
     paragraph.innerText = 'Proin fermentum leo vel orci porta non pulvinar neque. Eget duis at tellus at. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Fermentum dui faucibus in ornare. Turpis nunc eget lorem dolor sed viverra. Id semper risus in hendrerit. Sed turpis tincidunt id aliquet risus feugiat in. Faucibus interdum posuere lorem ipsum dolor sit amet. Dictumst quisque sagittis purus sit amet volutpat. Interdum velit laoreet id donec. Vitae sapien pellentesque habitant morbi. Dignissim enim sit amet venenatis. Sed velit dignissim sodales ut eu. A diam maecenas sed enim ut sem viverra aliquet. Porta non pulvinar neque laoreet suspendisse interdum.';
     content.appendChild(paragraph);
 
+    const credit = document.createElement('cite');
+    credit.innerText = 'Photo by Brooke Lark on Unsplash';
+    content.appendChild(credit);
+
 }
