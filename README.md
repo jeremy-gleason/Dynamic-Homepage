@@ -1,4 +1,4 @@
-# Restaurant Homepage / Dynamic Site
+# Dynamic Restaurant Homepage
 
 ## Overview 
 
