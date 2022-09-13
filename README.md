@@ -10,4 +10,4 @@ In order to implement tabbed browsing across the site's pages (Home/Menu/Contact
 
 This site was developed with JavaScript and HTML/CSS, using npm and webpack to automate the build process.
 
-The project is hosted on Github Pages: [Click here](https://jeremy-gleason.github.io/restaurant-page) to see it live.
+The project is hosted on Github Pages: [Click here](https://jeremy-gleason.github.io/Dynamic-Homepage) to see it live.
